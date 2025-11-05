@@ -1,2 +1,5 @@
 pytesseract
 PIL
+addlepaddle
+addleocr
+addlex
