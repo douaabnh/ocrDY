@@ -1,0 +1,57 @@
+== EXTRACTED TEXT ==
+
+Column 1:
+   YourName
+   Software Enginee.
+   CONTACT
+    12345 6789
+    example@gmail.com
+    #1 road, city/state-0011
+   SKILLS
+   O SQL Database Management
+    inux/Unx Command line
+    Python
+   ++3 
+    JAVA
+   LANGUAGES
+    Proficient
+    English:
+   Proflclent
+    Hind:
+   HOBBIES
+   o Writing
+   O Cricket
+   o Music
+
+Column 2:
+   PROFILE
+   I am a software engineer with experience in a variety of
+   programming languages and a track record of delivering high-.
+   quallty code. I am skllled in problem-solving and have a strong.
+   background in computer sclence. I am a strong communicator and
+   enjoy working collaboratively with others.
+   WORK EXPPERIENCE
+   Senlor Software Developer
+   Company- Country
+   Jan 2022 - Dec 2023
+   Developed and maintained software using Java, Python, and
+   C++
+   Led cross-functional teams to deliver successful software
+   projects
+   write a work experience of a senlor software engineer in bullet
+   polnts
+   Web Developer
+   Company- Country
+   Jan 2021- Dec 2021
+   Developed and maintained various web applications using.
+   languages such as HTML, CSS, JavaScript, and PHP
+   Worked with cross-functional teams to gather requirements
+   and design user interfaces
+   EDUCATION
+   Masters in Software Engineering
+   Jan 2019 - Dec 2020
+   XYx University, Bangalore.
+   Bachelor tn Computer Sclence
+   Jan 2015- Dec 2018
+   XYX University, Bangalore
+
