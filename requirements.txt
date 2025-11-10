@@ -3,3 +3,4 @@ PIL
 addlepaddle
 addleocr
 addlex
+kagglehub
